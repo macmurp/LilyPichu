@@ -42,7 +42,7 @@
   position: fixed;
   bottom: 85px;
   z-index: 1;
-  width: 220px;
+  width: 100px;
   height: 35px;
   background-color: var(--background-secondary);
   border-radius: 0 0 var(--border-radius) var(--border-radius);
